@@ -11,6 +11,8 @@ const GlobalStyle = createGlobalStyle`
 body{
     background-color: #1d1d1d;
     color: white;
+    font-family: 'Inter';
+    
 
 }
 
@@ -39,6 +41,7 @@ h3{
 }
 
 h4{
+    font-size: 2rem;
     font-weight: bold;
     color: #23d997
 }
